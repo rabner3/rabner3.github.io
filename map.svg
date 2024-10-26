@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 1080">
+
+<!-- Borde del SVG -->
+    <rect x="0" y="0" width="1440" height="1080" fill="none" stroke="amber" stroke-width="10" rx="20" ry="20" />
+
+    <!-- Mapa principal de fondo -->
+    <image id="mapa-principal" href="./mapa-base.png" x="0" y="0" width="1440" height="1080" />
+
+    <!-- Región Igneoris -->
+    <image id="igneoris" href="./regions/igneoris.png" x="-65" y="176" width="600" height="760" />
+
+    <!-- Región Beastorfolk -->
+    <image id="beastorfolk" href="./regions/beastorfolk.png" x="36" y="694" width="403.2" height="250" />
+
+    <!-- Región Terrafont -->
+    <image id="terrafont" href="./regions/terrafont.png" x="417.6" y="205" width="456.48" height="600" />
+
+    <!-- Región Ferrisventa -->
+    <image id="ferrisventa" href="./regions/ferrisventa.png" x="781.44" y="150" width="545.76" height="3450" />
+
+    <!-- Región Mysterium -->
+    <image id="mysterium" href="./regions/mysterium.png" x="867" y="462" width="465" height="358" />
+
+    <!-- Región Aquavas Norte -->
+    <image id="aquavasNorth" href="./regions/aquavasNorth.png" x="47.52" y="100" width="432" height="320" />
+
+    <!-- Región Aquavas Sur -->
+    <image id="aquavasSouth" href="./regions/aquavasSouth.png" x="967.68" y="810" width="417.6" height="160" />
+</svg>
